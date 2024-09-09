@@ -10,7 +10,7 @@ class Tank{
         this.y=y;
         this.color=color;
         this.size=size;
-        this.speed=1;
+        this.speed=1.5;
         this.angle=0;
         this.flag=false;
     }
